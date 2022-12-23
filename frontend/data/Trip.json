@@ -1,0 +1,72 @@
+[
+    {
+       "country":"France",
+       "trips":[
+          {
+             "name":"5 Nights in Paris",
+             "city":"Paris",
+             "url":"https://en.wikipedia.org/wiki/France",
+             "image":"https://a.cdn-hotels.com/gdcs/production167/d32/70860665-c6b2-4b40-82e9-37b4bea5648e.jpg",
+             "review":"",
+             "likes":"34",
+         "days": []
+ 
+          },
+          {
+             "name":"Beautiful Marseille",
+              "city":"Marseille",
+             "url":"",
+             "image":"https://a.cdn-hotels.com/gdcs/production14/d1589/9b2a4ed0-8f10-11e8-a0da-0242ac11004d.jpg",
+             "review":"",
+             "likes":"12",
+         "days": []
+          }
+       ]
+    },
+    {
+       "country":"England",
+       "trips":[
+          {
+             "name":"Christmas in London",
+             "city":"London",
+             "url":"https://www.bmw.com/en/bmw-models/bmw-8-series-gran-coupe.html",
+             "image":"https://media.architecturaldigest.com/photos/56fd9d65ecd154e0329c1627/4:3/w_768/london-travel-guide-lede.jpg",
+             "review":"",
+             "likes":"23",
+         "days": []
+          },
+          {
+             "name":"Football Trip in Manchester",
+             "city":"Manchester",
+             "url":"",
+             "image":"https://i2-prod.manchestereveningnews.co.uk/incoming/article17428679.ece/ALTERNATES/s1200b/1_MWOCT19-121051JPG.jpg",
+             "review":"",
+             "likes":"3",
+         "days": []
+          }
+       ]
+    },
+    {
+       "country":"Italy",
+       "trips":[
+          {
+             "name":"All of Rome in 6 Days",
+             "city":"Rome",
+             "url":"",
+             "image":"https://www.fodors.com/wp-content/uploads/2018/10/HERO_UltimateRome_Hero_shutterstock789412159.jpg",
+             "review":"",
+             "likes":"56",
+         "days": []
+          },
+          {
+             "name":"2 Nights in Venice",
+             "city":"Venice",
+             "url":"",
+             "image":"https://thenomadvisor.com/wp-content/uploads/2020/11/wheretostayinvenice.jpg",
+             "review":"",
+             "likes":"33",
+         "days": []
+          }
+       ]
+    }
+ ]

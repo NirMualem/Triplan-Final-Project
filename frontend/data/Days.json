@@ -1,0 +1,22 @@
+[
+      { "key": "28.11", "title": "28.11",
+         "data": [{ "keyAttrac":1,"parent":"28.11",  "name": "jerusalem city","type":"attraction", "startHour":"16:00","endHour": "19:00"},
+       { "keyAttrac":2,"parent":"28.11","name": "esacpeRoom","type":"attraction","startHour": "19:00","endHour": "20:00" }] },
+      { "key": "29.11", "title": "29.11", "data": [{"keyAttrac":3,"parent":"29.11" , "name": "Malcha Mall","type":"shopping", "startHour": "8:00","endHour": "9:00"},
+       {"keyAttrac":4,"parent":"29.11", "name": "Teddy stadium","type":"attraction", "startHour": "11:00","endHour": "12:00" },
+       {"keyAttrac":5,"parent":"29.11","name": "hotel jerusalem","type":"hotel", "startHour": "8:00","endHour": "9:00"}] },
+      { "key": "01.12", "title": "01.12", "data": [{ "keyAttrac":6,"parent":"01.12" ,"name": "Ali","type":"attraction", "result": 99 }, { "keyAttrac":19,"parent":"01.12" , "name": "Adam","type":"attraction", "result": 98 }] },
+      { "key": "02.12", "title": "01.12", "data": [{ "keyAttrac":7,"parent":"02.12" , "name": "Ali","type":"attraction", "result": 99 }, {"keyAttrac":20,"parent":"02.12" , "name": "Adam","type":"attraction", "result": 98 }] },
+      { "key": "03.12", "title": "03.12", "data":  [{ "keyAttrac":8,"parent":"03.12","name": "Ali","type":"attraction", "result": 99 }, { "keyAttrac":21,"parent":"03.12" ,"name": "Adam","type":"attraction", "result": 98 }] },
+      { "key": "04.12", "title": "04.12", "data":  [{ "keyAttrac":9,"parent":"04.12", "name": "Ali","type":"attraction", "result": 99 }] },
+      { "key": "05.12", "title": "05.12", "data":  [{ "keyAttrac":10,"parent":"05.12","name": "Ali","type":"attraction", "result": 99 }] },
+      { "key": "06.12", "title": "06.12", "data":  [{ "keyAttrac":11,"parent":"06.12","name": "Ali","type":"attraction", "result": 99 }]},
+      { "key": "07.12", "title": "07.12", "data":  [{ "keyAttrac":12,"parent":"07.12","name": "Ali","type":"attraction", "result": 99 }]},
+      { "key": "08.12", "title": "08.12", "data":  [{ "keyAttrac":13,"parent":"08.12","name": "Ali","type":"attraction", "result": 99 }]},
+      {"key": "09.12", "title": "09.12", "data":  [{ "keyAttrac":14,"parent":"09.12","name": "Ali","type":"attraction", "result": 99 }]},
+      { "key": "10.12", "title": "10.12", "data":  [{ "keyAttrac":15,"parent":"10.12","name": "Ali","type":"attraction", "result": 99 }]},
+      { "key": "11.12", "title": "11.12", "data":  [{ "keyAttrac":16,"parent":"11.12","name": "Ali","type":"attraction", "result": 99 }]},
+      { "key": "12.12", "title": "12.12", "data":  [{ "keyAttrac":17,"parent":"12.12","name": "Ali","type":"attraction", "result": 99 }]},
+      { "key": "13.12", "title": "13.12", "data":  [{ "keyAttrac":18,"parent":"13.12","name": "Ali","type":"attraction", "result": 99 }]}
+  
+]
