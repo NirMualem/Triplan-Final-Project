@@ -8,7 +8,7 @@ import { SignUpScreen } from '../Login/SignUpScreen';
 import OpeningScreen from '../screens/OpeningScreen';
 import AttractionDivision from '../screens/AttractionDivision';
 import BottomTabs from "./BottomTabs";
-import BudgetScreen from '../budget/budgetScreen'
+import BudgetScreen from '../budget/BudgetScreen'
 import AddDestinationScreen from '../screens/AddDestinationScreen';
 import ProfileScreen from '../screens/ProfileScreen';
 
